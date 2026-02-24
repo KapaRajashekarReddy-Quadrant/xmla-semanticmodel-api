@@ -1,0 +1,8 @@
+bin/
+obj/
+publish/
+*.user
+*.vs
+.vs/
+appsettings.Development.json
+appsettings.json
