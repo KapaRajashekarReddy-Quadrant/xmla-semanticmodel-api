@@ -8,7 +8,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend", policy =>
     {
         policy
-            .WithOrigins("https://id-preview--1115fb10-6ea8-4052-8d1b-31238016c02e.lovable.app")
+            .WithOrigins("https://reportmigration-frontend-g9ceape5ddgxa5gq.eastus-01.azurewebsites.net")
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
