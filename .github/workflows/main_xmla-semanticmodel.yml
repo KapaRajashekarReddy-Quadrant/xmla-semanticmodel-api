@@ -52,4 +52,4 @@ jobs:
           app-name: 'xmla-semanticmodel'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_151EA1E392794DE7B9D98B1A7FFEFDF4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EBA64191975489C976A90736B461357 }}
